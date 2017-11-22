@@ -7,12 +7,12 @@
 </p>
 <p align="center">A Vue.js 2.0 Mobile UI at YouZan</p>
 
-[![Build Status](https://travis-ci.org/youzan/vant.svg?branch=master)](https://travis-ci.org/youzan/vant) 
-[![downloads](https://img.shields.io/npm/dt/vant.svg)](https://www.npmjs.com/package/vant) 
+[![Build Status](https://travis-ci.org/youzan/vant.svg?branch=master)](https://travis-ci.org/youzan/vant)
+[![downloads](https://img.shields.io/npm/dt/vant.svg)](https://www.npmjs.com/package/vant)
 [![Coverage Status](https://img.shields.io/codecov/c/github/youzan/vant/dev.svg)](https://codecov.io/github/youzan/vant?branch=dev)
-[![npm version](https://img.shields.io/npm/v/vant.svg?style=flat)](https://www.npmjs.com/package/vant) 
+[![npm version](https://img.shields.io/npm/v/vant.svg?style=flat)](https://www.npmjs.com/package/vant)
 [![license](https://img.shields.io/npm/l/vant.svg)](https://www.npmjs.com/package/vant)
- 
+
 ## 特性
 
 - 组件都是来源于有赞的微商城业务，并且经过有赞业务的检验，更靠谱
@@ -24,13 +24,13 @@
 <p align="center">
   <img alt="feature demo" src="https://img.yzcdn.cn/public_files/2017/09/21/34974ceef63f380373bf3d68ec7907f8.gif">
 </p >
- 
+
 ## 安装
 
 ```shell
 npm i -S vant
 ```
- 
+
 ## 快速上手
 
 #### 方式一. 使用 [babel-plugin-import](https://github.com/ant-design/babel-plugin-import) (推荐)
@@ -61,7 +61,7 @@ import { Button } from 'vant/lib/button';
 import 'vant/lib/vant-css/base.css';
 import 'vant/lib/vant-css/button.css';
 ```
- 
+
 #### 方式三. 导入所有组件
 
 ```js
@@ -103,9 +103,9 @@ Vue.use(Vant);
 - [详细文档](https://www.youzanyun.com/zanui/vant)
 - [更新日志](https://www.youzanyun.com/zanui/vant#/en-US/component/changelog)
 - [React 组件库 Zent](https://www.youzanyun.com/zanui/zent)
-- [vue-cli-template-vant](https://github.com/youzan/vue-cli-template-vant) 
+- [vue-cli-template-vant](https://github.com/youzan/vue-cli-template-vant)
 - [vant-demo](https://github.com/youzan/vant-demo)
- 
+
 ## 开源协议
 
 本项目基于 [MIT](https://zh.wikipedia.org/wiki/MIT%E8%A8%B1%E5%8F%AF%E8%AD%89) 协议，请自由地享受和参与开源。
